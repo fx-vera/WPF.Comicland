@@ -16,11 +16,7 @@ Microsoft.Xaml.Behaviors.Wpf:
 	This library is used to allow interactivity with controls. 
 	
 	
-	
-Parte del código presentado en el core se ha implementado tomando como referencia los conocimientos previos y un repo personal de contrucción de aplicaciones WPF.
-https://github.com/fx-vera/verasoft.wpf
 
 	
-	
-
+The user installer is located in Installer\ExecuteThis
 
