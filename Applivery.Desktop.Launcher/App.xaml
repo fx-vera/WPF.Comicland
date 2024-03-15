@@ -1,0 +1,7 @@
+﻿<bootstrapper:Bootstrapper x:Class="Applivery.Desktop.Launcher.App"
+                           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                           xmlns:bootstrapper="clr-namespace:Applivery.Desktop.Core.Base;assembly=Applivery.Desktop.Core">
+    <Application.Resources>
+    </Application.Resources>
+</bootstrapper:Bootstrapper>

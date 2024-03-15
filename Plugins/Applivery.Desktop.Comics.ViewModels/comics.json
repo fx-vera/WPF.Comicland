@@ -1,0 +1,2207 @@
+"offset"": 0"
+"limit"": 20"
+"total"": 36684"
+"count"": 20"
+"results": [
+  {
+    "id": 38008,
+    "digitalId": 0,
+    "title": "Incredible Hulks: Dark Son (2010)",
+    "issueNumber": 0,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": ",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "Bruce Banner is the Hulk once again, and far from being left alone, he's got a whole family of gamma-charged allies at his side. Son Skaar, daughter Lyra, cousin She-Hulk, friends A-Bomb and Korg, and wife Red She-Hulk or is that EX-wife? Meanwhile, a universe away, Hiro-Kala, the mysterious DARK SON of Hulk, rises to power on the planer K'ai. He has a plan for his long lost family members, and it involves a bigger smash than his father has ever made. Collecting INCREDIBLE HULKS #612-617."
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38008",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/38008/incredible_hulks_dark_son_2010?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/13627",
+      "name": "Incredible Hulks: Dark Son (2010 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "2011-01-11T06:00:00+01:00"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 0
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4cbda1eb06127",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4cbda1eb06127",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38008/creators",
+      "items": [],
+      "returned": 0
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38008/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38008/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/83546",
+          "name": "Cover #83546",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/83547",
+          "name": "Interior #83547",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38008/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 25320,
+    "digitalId": 0,
+    "title": "Halo Chronicles (2009) #1",
+    "issueNumber": 1,
+    "variantDescription": ",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": "5960606858-00211",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 72,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/25320",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/25320/halo_chronicles_2009_1?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/7835",
+      "name": "Halo Chronicles (2009)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 5.99
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+      "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/25320/creators",
+      "items": [],
+      "returned": 0
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/25320/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/25320/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/55876",
+          "name": "Cover #55876",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/55877",
+          "name": "Interior #55877",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/25320/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 376,
+    "digitalId": 0,
+    "title": "Ant-Man (2003) #3",
+    "issueNumber": 3,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": "5960605396-02011",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "When Hank Pym - a.k.a. Ant-Man - is tapped by U.S. Intelligence to infiltrate an international spy ring that has been siphoning secrets out of Washington, the diminutive hero jumps at the chance - unaware that he's being used as a pawn in a larger game of espionage.\r32 PGS./PARENTAL ADVISORY...$2.99"
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/376",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/376/ant-man_2003_3?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/551",
+      "name": "Ant-Man (2003 - 2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 2.99
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/4bc69c7e9b9d7",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/4bc69c7e9b9d7",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/376/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+          "name": "Clayton Crain",
+          "role": "penciller (cover)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+          "name": "Daniel Way",
+          "role": "writer"
+        }
+      ],
+      "returned": 2
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/376/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/376/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/1810",
+          "name": "Cover #1810",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/1811",
+          "name": "Interior #1811",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/376/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 88924,
+    "digitalId": 54635,
+    "title": "Morbius (2019) #6",
+    "issueNumber": 6,
+    "variantDescription": ",
+    "description": "BLOOD AND BONE starts here! The monster called MORBIUS may have survived the harrowing events of the past few months, but whether any shred of his humanity did is another question entirely. In denial about his condition and desperate for a cure, the Living Vampire’s work continues, but after a violent showdown with The Amazing Spider-Man, the heroes of the Marvel Universe may not give him as wide a berth as he’d like...",
+    "modified": "2020-04-10T15:06:08+02:00",
+    "isbn": ",
+    "upc": "75960609564300611",
+    "diamondCode": "FEB200959",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/88924",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/88924/morbius_2019_6?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      },
+      {
+        "type": "purchase",
+        "url": "http://comicstore.marvel.com/Morbius-6/digital-comic/54635?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      },
+      {
+        "type": "reader",
+        "url": "http://marvel.com/digitalcomics/view.htm?iid=54635&utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/27748",
+      "name": "Morbius (2019 - 2020)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "2029-12-08T06:00:00+01:00"
+      },
+      {
+        "type": "unlimitedDate",
+        "date": "2023-05-24T17:14:00+02:00"
+      },
+      {
+        "type": "digitalPurchaseDate",
+        "date": "2023-05-24T17:14:00+02:00"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 3.99
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5e9e072a664c2",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5e9e072a664c2",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 6,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/88924/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/13590",
+          "name": "Vita Ayala",
+          "role": "writer"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/8540",
+          "name": "Geraldo Borges",
+          "role": "inker"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+          "name": "Vc Clayton Cowles",
+          "role": "letterer"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/13080",
+          "name": "S SKAN",
+          "role": "penciler (cover)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+          "name": "Edward Devin Lewis",
+          "role": "editor"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/13005",
+          "name": "Dono Sanchez-Almara",
+          "role": "colorist"
+        }
+      ],
+      "returned": 6
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/88924/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/88924/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/198063",
+          "name": "cover from Morbius (2019) #6",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/198064",
+          "name": "story from Morbius (2019) #6",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/88924/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 3627,
+    "digitalId": 0,
+    "title": "Storm (2006)",
+    "issueNumber": 0,
+    "variantDescription": ",
+    "description": "#N/A",
+    "modified": "2015-01-30T02:04:55+01:00",
+    "isbn": ",
+    "upc": ",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "The epic, untold love story between Marvel's two pre-eminent Black super heroes -- Storm and the Black Panther -- is finally told, as only New York Times best-selling author Eric Jerome Dickey can do it!  An orphaned street urchin, living by her wits on the unforgiving plains of Africa as she struggles to harness her slowly-developing mutant powers...A warrior Prince, embarking on his rite of passage as he ponders the great responsibility in his future...And a crew of ruthless mercenaries who'll stop at nothing to capture an elusive creature of legend -- the fabled wind-rider.  What sparks occur when their paths intersect?  Don't miss out on this story, True Believer, as it builds to a July Event that will shake the entire Marvel Universe.\r<br>\r<br>32 PGS./T+ SUGGESTED FOR TEENS AND UP ...$2.99\r<br>"
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/3627",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/3627/storm_2006?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/357",
+      "name": "Storm (2006)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 0
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc5fe7a308d7",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc5fe7a308d7",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 3,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/3627/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/370",
+          "name": "Eric Jerome Dickey",
+          "role": "writer"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/371",
+          "name": "David Hine",
+          "role": "penciller"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/243",
+          "name": "Mike Mayhew",
+          "role": "penciller (cover)"
+        }
+      ],
+      "returned": 3
+    },
+    "characters": {
+      "available": 1,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/3627/characters",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+          "name": "Storm"
+        }
+      ],
+      "returned": 1
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/3627/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/496",
+          "name": "Cover #496",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/497",
+          "name": "Interior #497",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/3627/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 27238,
+    "digitalId": 0,
+    "title": "Wolverine Saga (2009) #7",
+    "issueNumber": 7,
+    "variantDescription": ",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": "5960606814-00711",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/27238",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/27238/wolverine_saga_2009_7?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/8086",
+      "name": "Wolverine Saga (2009)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "2009-06-11T06:00:00+02:00"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 0
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+      "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+      "available": 1,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
+      ],
+      "returned": 1
+    },
+    "characters": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/characters",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+          "name": "Iron Man"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+          "name": "Wolverine"
+        }
+      ],
+      "returned": 2
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/59792",
+          "name": "Cover #59792",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/59793",
+          "name": "Interior #59793",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 38002,
+    "digitalId": 0,
+    "title": "X-Men: Fall Of The Mutants (2010)",
+    "issueNumber": 0,
+    "variantDescription": ",
+    "description": ",
+    "modified": "2011-04-29T16:41:59+02:00",
+    "isbn": ",
+    "upc": ",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "The body count rises higher than ever as the X-Men and their allies face war on every front! The original X-Men have formed X-Factor, and they come up against their deadliest challenge yet in Apocalypse and his Horsemen, including the all-new Archangel! The New Mutants lose one of their own! And after the Marauders slaughter the Morlocks, they take on the X-Men - and the survivors will be asked to sacrifice themselves to stop the evil Adversary! Featuring tie-ins starring Captain America, Daredevil, the Hulk, the Fantastic Four and Power Pack! Collecting NEW MUTANTS (1983) #55-61, UNCANNY X-MEN #220-227, X-FACTOR (1986) #18-26, CAPTAIN AMERICA (1968) #339, DAREDEVIL (1964) #252, FANTASTIC FOUR (1961) #312, INCREDIBLE HULK (1968) #336-337 & #340 and POWER PACK (1984) #35."
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38002",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/38002/x-men_fall_of_the_mutants_2010?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/13622",
+      "name": "X-Men: Fall Of The Mutants (2010 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "2010-11-11T06:00:00+01:00"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 0
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4cbcd33563abd",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4cbcd33563abd",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38002/creators",
+      "items": [],
+      "returned": 0
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38002/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38002/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/83533",
+          "name": "Cover #83533",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/83534",
+          "name": "Interior #83534",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38002/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 15094,
+    "digitalId": 0,
+    "title": "Silver Surfer (1987)",
+    "issueNumber": 0,
+    "variantDescription": ",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": ",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/15094",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/15094/silver_surfer_1987?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/2288",
+      "name": "Silver Surfer (1987 - 1998)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 0
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+      "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/15094/creators",
+      "items": [],
+      "returned": 0
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/15094/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/15094/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/30658",
+          "name": ",
+          "type": "
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/67348",
+          "name": "silver surfer 0 cover",
+          "type": "cover"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/15094/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 37376,
+    "digitalId": 0,
+    "title": "Punishermax: Kingpin (2010)",
+    "issueNumber": 0,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": ",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "The Punisher's one-man war on crime has been going well lately. A little too well. The mob bosses that make up the heads of the major crime families have banded together to finish off the Punisher for good. They've set a trap for Frank, using a low-level mob enforcer named Wilson Fisk to play the part of the \"Kingpin of Crime,\" an imaginary figure they know Frank won't be able to resist. With their trap set, the bosses have only to wait for the Punisher to take the bait. But the bosses aren't the only people with a plan. It seems that Wilson Fisk is tired of playing the heavy. He quite likes the idea of being the Kingpin, enough that he'd be willing to kill his own bosses to keep the position. Collecting PUNISHERMAX #1-5.\r\nExplicit Content ...$19.99\r\nISBN: 978-0-7851-4071-9"
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37376",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/37376/punishermax_kingpin_2010?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/13427",
+      "name": "Punishermax: Kingpin (2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "2010-09-09T06:00:00+02:00"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 0
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c4e014aa3086",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c4e014aa3086",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/37376/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+          "name": "Jason Aaron",
+          "role": "writer"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/73",
+          "name": "Steve Dillon",
+          "role": "penciler"
+        }
+      ],
+      "returned": 2
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/37376/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/37376/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/82773",
+          "name": "Punishermax: Kingpin (2010) ",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/82774",
+          "name": ",
+          "type": "
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/37376/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 38041,
+    "digitalId": 0,
+    "title": "X-Men (2010)",
+    "issueNumber": 0,
+    "variantDescription": ",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": ",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38041",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/38041/x-men_2010?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/9906",
+      "name": "X-Men (2010 - 2013)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 0
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+      "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38041/creators",
+      "items": [],
+      "returned": 0
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38041/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 1,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38041/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/106732",
+          "name": "cover from X-Men #0",
+          "type": "cover"
+        }
+      ],
+      "returned": 1
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/38041/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 20956,
+    "digitalId": 0,
+    "title": "Penance: Relentless (2008)",
+    "issueNumber": 0,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": ",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "From the pages of CIVIL WAR: FRONT LINE and THUNDERBOLTS! Once he was a hero, now only a shell of Robbie Baldwin remains. As Penance, he begins a slow descent into madness: the most hated man in America, blamed for the disaster at Stamford, tortured by visions of his failure and obsessed with strange, seemingly meaningless numbers. A relentless pursuit begins... Collecting PENANCE: RELENTLESS #1-5.\r<br>Rated T+ ...$13.99\r<br>"
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/20956",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/20956/penance_relentless_2008?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/4070",
+      "name": "Penance: Relentless (2008)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 0
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb860a46f58d",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb860a46f58d",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/20956/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/222",
+          "name": "Paul Gulacy",
+          "role": "penciller (cover)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/55",
+          "name": "Paul Jenkins",
+          "role": "writer"
+        }
+      ],
+      "returned": 2
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/20956/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/20956/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/45155",
+          "name": "Cover #45155",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/45156",
+          "name": "Interior #45156",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/20956/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 183,
+    "digitalId": 0,
+    "title": "Startling Stories: The Incorrigible Hulk (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": "5960605429-00811",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "For Doctor Bruce Banner life is anything but normal. But what happens when two women get between him and his alter ego, the Incorrigible Hulk? Hulk confused! \r\nIndy superstar Peter Bagge (THE MEGALOMANIACAL SPIDER-MAN) takes a satirical jab at the Hulk mythos with a tale of dames, debauchery and destruction.\r\n32 PGS./MARVEL PSR...$2.99"
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/183",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/183/startling_stories_the_incorrigible_hulk_2004_1?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/565",
+      "name": "Startling Stories: The Incorrigible Hulk (2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 2.99
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+      "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+      "available": 1,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/183/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/6291",
+          "name": "Peter Bagge",
+          "role": "penciller (cover)"
+        }
+      ],
+      "returned": 1
+    },
+    "characters": {
+      "available": 1,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/183/characters",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+          "name": "Hulk"
+        }
+      ],
+      "returned": 1
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/183/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/1891",
+          "name": "Cover #1891",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/1892",
+          "name": "Interior #1892",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/183/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 384,
+    "digitalId": 0,
+    "title": "Gun Theory (2003) #3",
+    "issueNumber": 3,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": "5960605492-00411",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "The phone rings, and killer-for-hire Harvey embarks on another hit. But nothing's going right this job. There's little room for error in the business of killing - so what happens when one occurs?\r\n\r\n32 PGS./ PARENTAL ADVISORY ...$2.50"
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/384",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/384/gun_theory_2003_3?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/649",
+      "name": "Gun Theory (2003)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 2.5
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc69f11baf75",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc69f11baf75",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/384/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/576",
+          "name": "Jon Proctor",
+          "role": "penciller (cover)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+          "name": "Daniel Way",
+          "role": "writer"
+        }
+      ],
+      "returned": 2
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/384/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/384/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/2538",
+          "name": "Cover #2538",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/2539",
+          "name": "Interior #2539",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/384/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 291,
+    "digitalId": 0,
+    "title": "Ant-Man (2003) #1",
+    "issueNumber": 1,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": "5960605396-01811",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "Size does matter.  And no one knows this more than Hank Pym - a.k.a. Ant-Man. Got a problem with Galactus? Call the FF. Got a problem with, say, mind-controlled cockroaches? Then Ant-Man's your man! And needless to say, it's done a number on our diminutive hero's self-esteem.  When Ant-Man is tapped to infiltrate an international spy ring that has been siphoning secrets out of Washington, he jumps at the chance - unaware that he's being used as a pawn in a larger game of espionage.\r\n32 PGS./PARENTAL ADVISORY...$2.99"
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/291",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/291/ant-man_2003_1?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/551",
+      "name": "Ant-Man (2003 - 2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 2.99
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4bc6a2497684e",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4bc6a2497684e",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/291/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+          "name": "Clayton Crain",
+          "role": "penciller (cover)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+          "name": "Daniel Way",
+          "role": "writer"
+        }
+      ],
+      "returned": 2
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/291/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/291/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/1806",
+          "name": "Cover #1806",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/1807",
+          "name": "Interior #1807",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/291/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 25321,
+    "digitalId": 0,
+    "title": "Halo Chronicles (2009) #2",
+    "issueNumber": 2,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": "5960606858-00211",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 72,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "Containing:\r\nHALO: UPRISING #3\r\nHALO: UPRISING #4\r\n72 PGS./17 & Up ...$5.99 \r\n©2009 Microsoft Corporation. All rights reserved.\r\nMicrosoft, Halo, the Halo logo, the Microsoft Game Studios logo, Xbox, Xbox 360, Xbox Live,\r\nand the Xbox logos are trademarks of the Microsoft group of companies. \r\nBungie and the Bungie logo are trademarks or registered trademarks of Bungie, LLC."
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/25321",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/25321/halo_chronicles_2009_2?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/7835",
+      "name": "Halo Chronicles (2009)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 5.99
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bb4ecb6aa5a9",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bb4ecb6aa5a9",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 1,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/25321/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
+      ],
+      "returned": 1
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/25321/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 4,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/25321/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/32696",
+          "name": "4XLS 1 of 4",
+          "type": "interiorStory"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/33075",
+          "name": "4XLS 2 of 4",
+          "type": "interiorStory"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/55878",
+          "name": "Cover #55878",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/55879",
+          "name": "Interior #55879",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 4
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/25321/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 428,
+    "digitalId": 0,
+    "title": "Ant-Man (2003) #4",
+    "issueNumber": 4,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": "5960605482-00411",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "Ant-Man digs deeper into finding out who is leaking those dirty little secrets that are threatening our national security. And who's better at uncovering dirty LITTLE secrets than him??"
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/428",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/428/ant-man_2003_4?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/551",
+      "name": "Ant-Man (2003 - 2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 2.99
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4bc697c680890",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4bc697c680890",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/428/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+          "name": "Clayton Crain",
+          "role": "penciller (cover)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+          "name": "Daniel Way",
+          "role": "writer"
+        }
+      ],
+      "returned": 2
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/428/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/428/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/2331",
+          "name": "Cover #2331",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/2332",
+          "name": "Interior #2332",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/428/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 331,
+    "digitalId": 0,
+    "title": "Gun Theory (2003) #4",
+    "issueNumber": 4,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": "5960605468-00111",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "The phone rings, and killer-for-hire Harvey embarks on another hit. But nothing's going right this job. There's little room for error in the business of killing - so what happens when one occurs?\r\n32 PGS./ PARENTAL ADVISORY ...$2.50"
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/331",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/331/gun_theory_2003_4?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/649",
+      "name": "Gun Theory (2003)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 2.5
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc69f11baf75",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc69f11baf75",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/331/creators",
+      "items": [],
+      "returned": 0
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/331/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/331/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/2263",
+          "name": "Interior #2263",
+          "type": "interiorStory"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/65423",
+          "name": "GUN THEORY 4 cover",
+          "type": "cover"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/331/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 23561,
+    "digitalId": 0,
+    "title": "Holiday Special (1969) #1",
+    "issueNumber": 1,
+    "variantDescription": ",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": ",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/23561",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/23561/holiday_special_1969_1?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/6700",
+      "name": "Holiday Special (1969)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 0
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+      "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/23561/creators",
+      "items": [],
+      "returned": 0
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/23561/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/23561/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/52600",
+          "name": "Cover #52600",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/52601",
+          "name": "Interior #52601",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/23561/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 17486,
+    "digitalId": 0,
+    "title": "X-Men: Phoenix - Warsong (2006)",
+    "issueNumber": 0,
+    "variantDescription": ",
+    "description": null,
+    "modified": "2017-07-13T21:08:13+02:00",
+    "isbn": "0-7851-1931-0",
+    "upc": ",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/17486",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/17486/x-men_phoenix_-_warsong_2006?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/3318",
+      "name": "X-Men: Phoenix - Warsong (2006)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 0
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c3645d0d29e3",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5967d3020ef5a",
+        "extension": "jpg"
+      },
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/5967babd39573",
+        "extension": "jpg"
+      },
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/5967855eba7e7",
+        "extension": "jpg"
+      },
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/596782f82d9ba",
+        "extension": "jpg"
+      },
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c3645d0d29e3",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 7,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/17486/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/1032",
+          "name": "Troy Peteri",
+          "role": "letterer"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/1026",
+          "name": "Tyler Kirkham",
+          "role": "penciller"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+          "name": "Greg Pak",
+          "role": "writer"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/9395",
+          "name": "Salvador Regla",
+          "role": "inker"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/5044",
+          "name": "Marc Silvestri",
+          "role": "penciller (cover)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/1029",
+          "name": "John STARR",
+          "role": "colorist"
+        }
+      ],
+      "returned": 7
+    },
+    "characters": {
+      "available": 7,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/17486/characters",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+          "name": "Beast"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+          "name": "Colossus"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+          "name": "Cyclops"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+          "name": "Emma Frost"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+          "name": "Kitty Pryde"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+          "name": "Wolverine"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+          "name": "X-Men"
+        }
+      ],
+      "returned": 7
+    },
+    "stories": {
+      "available": 12,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/17486/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/5377",
+          "name": "1 of 5 - 5XLS",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/5378",
+          "name": "1 of 5 - 5XLS",
+          "type": "interiorStory"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/5379",
+          "name": "2 of 5 - 5XLS",
+          "type": "interiorStory"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/5380",
+          "name": "3 of 5 - 5XLS",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/5381",
+          "name": "3 of 5 - 5XLS",
+          "type": "interiorStory"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/5382",
+          "name": "4 of 5 - Warsong - 5XLS",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/5383",
+          "name": "4 of 5 - Warsong - 5XLS",
+          "type": "interiorStory"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/5384",
+          "name": "5 of 5 - Warsong - 5XLS",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/5385",
+          "name": "5 of 5 - Warsong - 5XLS",
+          "type": "interiorStory"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/7756",
+          "name": "5 of 5 - Warsong - 5XLS",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/7757",
+          "name": "5 of 5 - Warsong - 5XLS",
+          "type": "interiorStory"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/67688",
+          "name": "X-MEN: PHOENIX - WARSONG TPB 0 cover",
+          "type": "cover"
+        }
+      ],
+      "returned": 12
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/17486/events",
+      "items": [],
+      "returned": 0
+    }
+  },
+  {
+    "id": 323,
+    "digitalId": 0,
+    "title": "Ant-Man (2003) #2",
+    "issueNumber": 2,
+    "variantDescription": ",
+    "description": ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": ",
+    "upc": "5960605396-01911",
+    "diamondCode": ",
+    "ean": ",
+    "issn": ",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+      {
+        "type": "issue_solicit_text",
+        "language": "en-us",
+        "text": "Ant-Man digs deeper to find out who is leaking secret information that threatens our national security.\r\n32 pgs./PARENTAL ADVISORY...$2.99"
+      }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/323",
+    "urls": [
+      {
+        "type": "detail",
+        "url": "http://marvel.com/comics/issue/323/ant-man_2003_2?utm_campaign=apiRef&utm_source=8a8c5fbb2f979075bad82b7525cfac0b"
+      }
+    ],
+    "series": {
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/551",
+      "name": "Ant-Man (2003 - 2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+      {
+        "type": "onsaleDate",
+        "date": "2029-12-31T06:00:00+01:00"
+      },
+      {
+        "type": "focDate",
+        "date": "-0001-11-30T00:00:00-0500"
+      }
+    ],
+    "prices": [
+      {
+        "type": "printPrice",
+        "price": 2.99
+      }
+    ],
+    "thumbnail": {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc69f33cafc0",
+      "extension": "jpg"
+    },
+    "images": [
+      {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc69f33cafc0",
+        "extension": "jpg"
+      }
+    ],
+    "creators": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/323/creators",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+          "name": "Clayton Crain",
+          "role": "penciller (cover)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+          "name": "Daniel Way",
+          "role": "writer"
+        }
+      ],
+      "returned": 2
+    },
+    "characters": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/323/characters",
+      "items": [],
+      "returned": 0
+    },
+    "stories": {
+      "available": 2,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/323/stories",
+      "items": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/1808",
+          "name": "Cover #1808",
+          "type": "cover"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/stories/1809",
+          "name": "Interior #1809",
+          "type": "interiorStory"
+        }
+      ],
+      "returned": 2
+    },
+    "events": {
+      "available": 0,
+      "collectionURI": "http://gateway.marvel.com/v1/public/comics/323/events",
+      "items": [],
+      "returned": 0
+    }
+  }
+]
