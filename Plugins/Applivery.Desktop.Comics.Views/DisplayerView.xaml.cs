@@ -11,7 +11,5 @@ namespace Applivery.Desktop.Comics.Views
         {
             InitializeComponent();
         }
-
-        
     }
 }

@@ -10,30 +10,11 @@
         Name="AppliveryMainView">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="Auto" MinHeight="50"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <!-- here the plugins -->
-        <ListBox x:Name="pluginsList" Grid.Row="0" Margin="3" BorderThickness="0.5" ItemsSource="{Binding Plugins}" ScrollViewer.HorizontalScrollBarVisibility="Auto" HorizontalAlignment="Stretch" HorizontalContentAlignment="Stretch">
-            <ItemsControl.ItemsPanel>
-                <ItemsPanelTemplate >
-                    <WrapPanel Orientation="Horizontal" IsItemsHost="True"/>
-                </ItemsPanelTemplate>
-            </ItemsControl.ItemsPanel>
-            <ItemsControl.ItemTemplate>
-                <DataTemplate>
-                    <Grid HorizontalAlignment="Center">
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="{Binding Height, ElementName=pluginsList}"></RowDefinition>
-                        </Grid.RowDefinitions>
-                        <Button Command="{Binding Command}" Content="{Binding Name}" Margin="3" Width="150" Height="40"/>
-                    </Grid>
-                </DataTemplate>
-            </ItemsControl.ItemTemplate>
-        </ListBox>
 
-        <!-- here the content of the plugins -->
-        <Border x:Name="pluginsContent" Grid.Row="1" Margin="3" BorderThickness="0.5" BorderBrush="Gray" >
+        <!-- here the content of the plugin -->
+        <Border x:Name="pluginsContent" Grid.Row="0" Margin="3" BorderThickness="0.5" BorderBrush="Gray" >
             <ScrollViewer ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto">
                 <ContentPresenter  x:Name="contentContainer" Content="{Binding ViewModel}"/>
             </ScrollViewer>

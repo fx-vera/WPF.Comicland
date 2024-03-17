@@ -74,20 +74,6 @@ namespace Applivery.Desktop.Core.Base
             }
 
             LoadApplicationViews();
-
-            MainWindow = CreateMainWindow();
-            if (MainWindow == null)
-            {
-                MessageBox.Show(loadError, "Error creating the MainWindow for the Application Modules in Applivery.MarvelComics.Desktop.");
-                Current.Shutdown();
-            }
-            else
-            {
-                MainWindow.Closing += (o, ee) => CustomShutDown();
-                LoadPlugins();
-                ((IMainWindowViewModel)MainWindow.DataContext).SetSelectedPlugin();
-                MainWindow.Show();
-            }
         }
 
         #region Abstracts
@@ -144,7 +130,7 @@ namespace Applivery.Desktop.Core.Base
         /// any implementation the subclasses want.
         /// </summary>
         /// <returns></returns>
-        private Window CreateMainWindow()
+        protected Window CreateMainWindow()
         {
             IMainWindowViewModel mainViewModel = IoC.Get<IMainWindowViewModel>();
             if (mainViewModel == null)
@@ -159,12 +145,13 @@ namespace Applivery.Desktop.Core.Base
             return mainWindow;
         }
 
-        private void CustomShutDown()
+        protected void CustomClosing()
         {
-            Current.Shutdown();
+            //MainWindow.Close();
+            //Current.Shutdown();
         }
 
-        private void LoadPlugins()
+        protected void LoadPlugins()
         {
             IEventAggregator eventAggregator = IoC.Get<IEventAggregator>();
             LoadPluginEventArgs args;

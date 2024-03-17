@@ -21,27 +21,14 @@ namespace Applivery.Desktop.Comics.ViewModels
     {
         public DisplayerViewModel()
         {
-            DisplayInfoCommand = new RelayCommand(o => PerformDisplayInfoCommand(o));
             DisplayerModel = new DisplayerModel();
             ReadComicsFromAPI();
         }
 
         /// <summary>
-        /// Executed when the user clic on a title.
-        /// </summary>
-        public ICommand DisplayInfoCommand { get; set; }
-
-        /// <summary>
         /// Contains the Comics data
         /// </summary>
         public DisplayerModel DisplayerModel { get; set; }
-
-        public string Description { get; set; }
-
-        private void PerformDisplayInfoCommand(object o)
-        {
-
-        }
 
         private async void ReadComicsFromAPI()
         {

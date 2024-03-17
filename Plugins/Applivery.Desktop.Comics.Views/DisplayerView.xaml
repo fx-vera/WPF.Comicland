@@ -12,11 +12,11 @@
         </Grid.ColumnDefinitions>
         <Border x:Name="pluginsContent" Margin="3" BorderThickness="0.3" BorderBrush="CornflowerBlue">
             <ListView x:Name="list" ItemsSource="{Binding DisplayerModel.Comics}" DisplayMemberPath="Name" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True">
-                <behaviors:Interaction.Triggers>
+                <!--<behaviors:Interaction.Triggers>
                     <behaviors:EventTrigger EventName="PreviewMouseLeftButtonDown">
                         <behaviors:InvokeCommandAction Command="{Binding DisplayInfoCommand}"/>
                     </behaviors:EventTrigger >
-                </behaviors:Interaction.Triggers>
+                </behaviors:Interaction.Triggers>-->
             </ListView>
         </Border>
         <Grid Grid.Column="1" Width="auto" Margin="5">
