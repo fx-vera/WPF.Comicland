@@ -429,7 +429,7 @@ namespace Applivery.Desktop.Core.Events
                     }
                 }
             }
-            catch (Exception ex)
+            catch
             {
 
             }

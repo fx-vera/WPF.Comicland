@@ -15,182 +15,128 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_03CAEDCA73C801FBFD977CA872851A94"
-        "OwnerKey" = "8:_3DE93B85E1EB42808000F9E80F0795D0"
+        "MsmKey" = "8:_0CCD755D9D16FD189CAB003AA129C641"
+        "OwnerKey" = "8:_7B1216BA8EC64F06829D47DBB260DB07"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_3DE93B85E1EB42808000F9E80F0795D0"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3E3AEFEC305B4C5CA5850785B2476D49"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3F1E0B39210F448AB763E314FFABDF99"
+        "MsmKey" = "8:_379D1D9BA1A8492BB683C119C28BF512"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_4EA9847226DAA9CF12550B0BA0457B2A"
-        "OwnerKey" = "8:_3DE93B85E1EB42808000F9E80F0795D0"
+        "OwnerKey" = "8:_7B1216BA8EC64F06829D47DBB260DB07"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_4EA9847226DAA9CF12550B0BA0457B2A"
-        "OwnerKey" = "8:_EC8218FABDCD44DABD3C885E366203D3"
+        "OwnerKey" = "8:_379D1D9BA1A8492BB683C119C28BF512"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_4EA9847226DAA9CF12550B0BA0457B2A"
-        "OwnerKey" = "8:_D6483FF7A5DD48AFA8EECE21D7599C45"
+        "OwnerKey" = "8:_0CCD755D9D16FD189CAB003AA129C641"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4EA9847226DAA9CF12550B0BA0457B2A"
-        "OwnerKey" = "8:_AD25DA63BE6D43908D6CFDA73DB087AC"
+        "MsmKey" = "8:_6794F3CA8F9661E6EE3591DBC148C104"
+        "OwnerKey" = "8:_0CCD755D9D16FD189CAB003AA129C641"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4EA9847226DAA9CF12550B0BA0457B2A"
-        "OwnerKey" = "8:_3F1E0B39210F448AB763E314FFABDF99"
+        "MsmKey" = "8:_6794F3CA8F9661E6EE3591DBC148C104"
+        "OwnerKey" = "8:_7B1216BA8EC64F06829D47DBB260DB07"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_8B0F4941E02FB85A2D442A25920F4966"
-        "OwnerKey" = "8:_AD25DA63BE6D43908D6CFDA73DB087AC"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_AD25DA63BE6D43908D6CFDA73DB087AC"
+        "MsmKey" = "8:_7B1216BA8EC64F06829D47DBB260DB07"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D01102155BB382719F3484CB4911D895"
-        "OwnerKey" = "8:_AD25DA63BE6D43908D6CFDA73DB087AC"
+        "MsmKey" = "8:_9C77248D77FC987F1C6F592F9D446F31"
+        "OwnerKey" = "8:_7B1216BA8EC64F06829D47DBB260DB07"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D0E1E6C57FB57BAA040715CF62AB7286"
-        "OwnerKey" = "8:_AD25DA63BE6D43908D6CFDA73DB087AC"
+        "MsmKey" = "8:_C8B459551E6390CADE9820157E11B6E8"
+        "OwnerKey" = "8:_7B1216BA8EC64F06829D47DBB260DB07"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D0E1E6C57FB57BAA040715CF62AB7286"
-        "OwnerKey" = "8:_D6483FF7A5DD48AFA8EECE21D7599C45"
+        "MsmKey" = "8:_C8B459551E6390CADE9820157E11B6E8"
+        "OwnerKey" = "8:_379D1D9BA1A8492BB683C119C28BF512"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D6483FF7A5DD48AFA8EECE21D7599C45"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_CB6F74F867DFF2D67346F731BB0AA7C9"
+        "OwnerKey" = "8:_0CCD755D9D16FD189CAB003AA129C641"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_E20DFD4D346EE2A6DDF5F1889D72AD09"
-        "OwnerKey" = "8:_AD25DA63BE6D43908D6CFDA73DB087AC"
+        "MsmKey" = "8:_CB6F74F867DFF2D67346F731BB0AA7C9"
+        "OwnerKey" = "8:_7B1216BA8EC64F06829D47DBB260DB07"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_E2EEF8100CD062788902AB1177B09D1B"
-        "OwnerKey" = "8:_3DE93B85E1EB42808000F9E80F0795D0"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E2EEF8100CD062788902AB1177B09D1B"
-        "OwnerKey" = "8:_EC8218FABDCD44DABD3C885E366203D3"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E2EEF8100CD062788902AB1177B09D1B"
-        "OwnerKey" = "8:_AD25DA63BE6D43908D6CFDA73DB087AC"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E2EEF8100CD062788902AB1177B09D1B"
-        "OwnerKey" = "8:_3F1E0B39210F448AB763E314FFABDF99"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_EC8218FABDCD44DABD3C885E366203D3"
-        "OwnerKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_7B1216BA8EC64F06829D47DBB260DB07"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D6483FF7A5DD48AFA8EECE21D7599C45"
+        "OwnerKey" = "8:_4EA9847226DAA9CF12550B0BA0457B2A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_EC8218FABDCD44DABD3C885E366203D3"
+        "OwnerKey" = "8:_379D1D9BA1A8492BB683C119C28BF512"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_AD25DA63BE6D43908D6CFDA73DB087AC"
+        "OwnerKey" = "8:_7B1216BA8EC64F06829D47DBB260DB07"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_8B0F4941E02FB85A2D442A25920F4966"
+        "OwnerKey" = "8:_9C77248D77FC987F1C6F592F9D446F31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D0E1E6C57FB57BAA040715CF62AB7286"
+        "OwnerKey" = "8:_0CCD755D9D16FD189CAB003AA129C641"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D01102155BB382719F3484CB4911D895"
+        "OwnerKey" = "8:_CB6F74F867DFF2D67346F731BB0AA7C9"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E20DFD4D346EE2A6DDF5F1889D72AD09"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_3F1E0B39210F448AB763E314FFABDF99"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_3DE93B85E1EB42808000F9E80F0795D0"
+        "OwnerKey" = "8:_6794F3CA8F9661E6EE3591DBC148C104"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -202,13 +148,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_03CAEDCA73C801FBFD977CA872851A94"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4EA9847226DAA9CF12550B0BA0457B2A"
+        "OwnerKey" = "8:_C8B459551E6390CADE9820157E11B6E8"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -268,6 +208,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -298,20 +246,20 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_03CAEDCA73C801FBFD977CA872851A94"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0CCD755D9D16FD189CAB003AA129C641"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Xaml.Behaviors, Version=1.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Applivery.Desktop.Comics.Logic, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_03CAEDCA73C801FBFD977CA872851A94"
+                    "_0CCD755D9D16FD189CAB003AA129C641"
                     {
-                    "Name" = "8:Microsoft.Xaml.Behaviors.dll"
+                    "Name" = "8:Applivery.Desktop.Comics.Logic.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:Microsoft.Xaml.Behaviors.dll"
+            "SourcePath" = "8:Applivery.Desktop.Comics.Logic.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B495D74A6BAE4923ABD341876635C810"
@@ -327,26 +275,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3E3AEFEC305B4C5CA5850785B2476D49"
-            {
-            "SourcePath" = "8:..\\..\\Applivery.Desktop.Launcher\\ca.ico"
-            "TargetName" = "8:ca.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_B495D74A6BAE4923ABD341876635C810"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4EA9847226DAA9CF12550B0BA0457B2A"
@@ -380,14 +308,14 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8B0F4941E02FB85A2D442A25920F4966"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6794F3CA8F9661E6EE3591DBC148C104"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_8B0F4941E02FB85A2D442A25920F4966"
+                    "_6794F3CA8F9661E6EE3591DBC148C104"
                     {
                     "Name" = "8:Newtonsoft.Json.dll"
                     "Attributes" = "3:512"
@@ -411,14 +339,14 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D01102155BB382719F3484CB4911D895"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9C77248D77FC987F1C6F592F9D446F31"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Applivery.Desktop.Comics.Views, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_D01102155BB382719F3484CB4911D895"
+                    "_9C77248D77FC987F1C6F592F9D446F31"
                     {
                     "Name" = "8:Applivery.Desktop.Comics.Views.dll"
                     "Attributes" = "3:512"
@@ -442,14 +370,14 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D0E1E6C57FB57BAA040715CF62AB7286"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C8B459551E6390CADE9820157E11B6E8"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Applivery.Desktop.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_D0E1E6C57FB57BAA040715CF62AB7286"
+                    "_C8B459551E6390CADE9820157E11B6E8"
                     {
                     "Name" = "8:Applivery.Desktop.Core.dll"
                     "Attributes" = "3:512"
@@ -473,14 +401,14 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E20DFD4D346EE2A6DDF5F1889D72AD09"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CB6F74F867DFF2D67346F731BB0AA7C9"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Applivery.Desktop.Comics.Models, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_E20DFD4D346EE2A6DDF5F1889D72AD09"
+                    "_CB6F74F867DFF2D67346F731BB0AA7C9"
                     {
                     "Name" = "8:Applivery.Desktop.Comics.Models.dll"
                     "Attributes" = "3:512"
@@ -603,7 +531,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Applivery.Desktop.Setup"
         "ProductCode" = "8:{C0778EE0-0C0E-419D-BE0D-E4C98C82608C}"
-        "PackageCode" = "8:{C9667C78-5E3A-48F6-8274-DB08FFE97ED2}"
+        "PackageCode" = "8:{BA386EB3-78B4-489B-AB9A-596E8B8659A1}"
         "UpgradeCode" = "8:{7BF89CA1-260A-48A8-9524-7B1B4BD33E0D}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -723,46 +651,46 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_068FC572FE1642DEBBE82AA0684001AD"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_7BFDC861E3A14B00AD0410323F75D8FD"
             {
-            "Name" = "8:Applivery.Desktop.Launcher"
+            "Name" = "8:Applivery Comics"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_D6483FF7A5DD48AFA8EECE21D7599C45"
-            "Folder" = "8:_F00C01A1733E47C6A5FBB865762BB3F2"
-            "WorkingFolder" = "8:_B495D74A6BAE4923ABD341876635C810"
-            "Icon" = "8:_3E3AEFEC305B4C5CA5850785B2476D49"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_46710FA402E642E490CE0D76978D783E"
-            {
-            "Name" = "8:Applivery.Desktop.Launcher"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_D6483FF7A5DD48AFA8EECE21D7599C45"
-            "Folder" = "8:_19BB45D577804C3791E9F03BC1F56D0F"
-            "WorkingFolder" = "8:_B495D74A6BAE4923ABD341876635C810"
-            "Icon" = "8:_3E3AEFEC305B4C5CA5850785B2476D49"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_95ED3FF136EA407FA141E6880CC2D6C1"
-            {
-            "Name" = "8:Applivery.Desktop.Launcher"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_D6483FF7A5DD48AFA8EECE21D7599C45"
+            "Target" = "8:_379D1D9BA1A8492BB683C119C28BF512"
             "Folder" = "8:_7CF7F3190F8C4C8DAC474108D0738C6B"
             "WorkingFolder" = "8:_B495D74A6BAE4923ABD341876635C810"
-            "Icon" = "8:_3E3AEFEC305B4C5CA5850785B2476D49"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_D43870164F1340C5886564669082AD2A"
+            {
+            "Name" = "8:Applivery Comics"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_379D1D9BA1A8492BB683C119C28BF512"
+            "Folder" = "8:_F00C01A1733E47C6A5FBB865762BB3F2"
+            "WorkingFolder" = "8:_B495D74A6BAE4923ABD341876635C810"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E4CCC592B8DE41F9BC5BE39CA454FDDE"
+            {
+            "Name" = "8:Applivery Comics"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_379D1D9BA1A8492BB683C119C28BF512"
+            "Folder" = "8:_19BB45D577804C3791E9F03BC1F56D0F"
+            "WorkingFolder" = "8:_B495D74A6BAE4923ABD341876635C810"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
         }
@@ -1164,9 +1092,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_3DE93B85E1EB42808000F9E80F0795D0"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_379D1D9BA1A8492BB683C119C28BF512"
             {
-            "SourcePath" = "8:..\\..\\Plugins\\Applivery.Desktop.Comics.Views\\obj\\Debug\\Applivery.Desktop.Comics.Views.dll"
+            "SourcePath" = "8:..\\..\\Applivery.Desktop.Launcher\\obj\\Release\\Applivery.Desktop.Launcher.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B495D74A6BAE4923ABD341876635C810"
@@ -1186,71 +1114,15 @@
             "ProjectOutputGroupRegister" = "3:1"
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{A40BF8C8-CDDB-45E8-A196-A9D9AC9DF373}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_3F1E0B39210F448AB763E314FFABDF99"
-            {
-            "SourcePath" = "8:..\\..\\Plugins\\Applivery.Desktop.Comics.Models\\obj\\Debug\\Applivery.Desktop.Comics.Models.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_B495D74A6BAE4923ABD341876635C810"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{92B43423-BE10-4B63-88C0-3430D196AEC4}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_67FED487703C40E5AC3C0249BFB97764"
-            {
-            "SourcePath" = "8:"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_B495D74A6BAE4923ABD341876635C810"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:ReferenceCopyLocalPaths"
             "OutputProjectGuid" = "8:{87C10475-3120-44A7-9B93-9C6D4026F5B3}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
                 }
             }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_AD25DA63BE6D43908D6CFDA73DB087AC"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_7B1216BA8EC64F06829D47DBB260DB07"
             {
-            "SourcePath" = "8:..\\..\\Plugins\\Applivery.Desktop.Comics.ViewModels\\obj\\Debug\\Applivery.Desktop.Comics.ViewModels.dll"
+            "SourcePath" = "8:..\\..\\Plugins\\Applivery.Desktop.Comics.ViewModels\\obj\\Release\\Applivery.Desktop.Comics.ViewModels.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B495D74A6BAE4923ABD341876635C810"
@@ -1271,90 +1143,6 @@
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:Built"
             "OutputProjectGuid" = "8:{E44F6FF8-63A9-4545-BCF1-BB61A64BD383}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_D6483FF7A5DD48AFA8EECE21D7599C45"
-            {
-            "SourcePath" = "8:..\\..\\Applivery.Desktop.Launcher\\obj\\Debug\\Applivery.Desktop.Launcher.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_B495D74A6BAE4923ABD341876635C810"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{87C10475-3120-44A7-9B93-9C6D4026F5B3}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_D83C9992C4C84E668A93B0682FED8A74"
-            {
-            "SourcePath" = "8:"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_B495D74A6BAE4923ABD341876635C810"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:ContentFiles"
-            "OutputProjectGuid" = "8:{87C10475-3120-44A7-9B93-9C6D4026F5B3}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_EC8218FABDCD44DABD3C885E366203D3"
-            {
-            "SourcePath" = "8:..\\..\\Core\\Applivery.Desktop.Core\\obj\\Debug\\Applivery.Desktop.Core.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_B495D74A6BAE4923ABD341876635C810"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{5A0C0D8C-897A-4C7D-8741-3636DE695091}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {

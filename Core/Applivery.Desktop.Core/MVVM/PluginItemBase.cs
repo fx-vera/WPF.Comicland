@@ -13,19 +13,16 @@ namespace Applivery.Desktop.Core.MVVM
         {
         }
 
-        public PluginItemBase(string id, string name, ImageSource icon, ICommand command)
+        public PluginItemBase(string id, string name, ICommand command)
         {
             Id = id;
             Name = name;
-            Icon = icon;
             Command = command;
         }
 
         public string Id { get; set; }
 
         public string Name { get; set; }
-
-        public ImageSource Icon { get; set; }
 
         public ICommand Command { get; set; }
 

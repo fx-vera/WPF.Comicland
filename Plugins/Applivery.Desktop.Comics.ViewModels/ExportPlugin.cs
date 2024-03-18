@@ -16,8 +16,7 @@ namespace Applivery.Desktop.Comics.ViewModels
             ComicsDisplayer = new PluginItemBase();
             ComicsDisplayer.Id = "{4D36ABEE-72EA-4B3C-AA37-22A3D0CA613D}";
             ComicsDisplayer.Name = "Marvel Comics";
-            ComicsDisplayer.Icon = null;
-            ComicsDisplayer.Command = this.MenuItemCommand(ComicsDisplayer, new Func<ViewModel>(() => { return new DisplayerViewModel(); }));
+            ComicsDisplayer.Command = this.MenuItemCommand(ComicsDisplayer, new Func<ViewModelBase>(() => { return new DisplayerViewModel(); }));
         }
 
         [Export(typeof(IPluginItem))]

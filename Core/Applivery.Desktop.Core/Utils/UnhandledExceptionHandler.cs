@@ -19,14 +19,15 @@ namespace Applivery.Desktop.Core.Utils
         static UnhandledExceptionHandler()
         {
             AppDomain.CurrentDomain.UnhandledException += new UnhandledExceptionEventHandler(AppDomainUnhandledException);
-            Application.Current.DispatcherUnhandledException += ApplicationDispatcherUnhandledException;
+            if (Application.Current != null)
+                Application.Current.DispatcherUnhandledException += ApplicationDispatcherUnhandledException;
             TaskScheduler.UnobservedTaskException += UnobservedTaskException;
         }
 
         /// <summary>
         /// Help to init the static method in bootstrapper.
         /// </summary>
-        internal static void Init() { }
+        public static void Init() { }
 
         #region Handlers
 
@@ -54,7 +55,7 @@ namespace Applivery.Desktop.Core.Utils
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        static void ApplicationDispatcherUnhandledException(object sender, System.Windows.Threading.DispatcherUnhandledExceptionEventArgs e)
+        public static void ApplicationDispatcherUnhandledException(object sender, System.Windows.Threading.DispatcherUnhandledExceptionEventArgs e)
         {
             e.Handled = true;
             LogException(e.Exception, true);
@@ -81,7 +82,7 @@ namespace Applivery.Desktop.Core.Utils
         /// </summary>
         /// <param name="ex"></param>
         /// <param name="showTerminationDialog"></param>
-        private static void LogException(Exception ex, bool showTerminationDialog)
+        private static bool LogException(Exception ex, bool showTerminationDialog)
         {
             try
             {
@@ -114,12 +115,15 @@ namespace Applivery.Desktop.Core.Utils
                 {
                     ShowExceptionMessageBox(unhandledExceptionLog, innerExceptionMessage);
                 }
+
+                return true;
             }
             catch (Exception ex2)
             {
                 try
                 {
                     MessageBox.Show("Fatal Non-UI Error:\r\n" + ex2.Message, "Fatal Non-UI Error", MessageBoxButton.OK, MessageBoxImage.Stop);
+                    return false;
                 }
                 finally
                 {

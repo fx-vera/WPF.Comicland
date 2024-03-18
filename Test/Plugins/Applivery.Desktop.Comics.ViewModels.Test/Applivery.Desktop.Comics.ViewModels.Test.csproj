@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Plugins\Applivery.Desktop.Comics.Logic\Applivery.Desktop.Comics.Logic.csproj" />
+    <ProjectReference Include="..\..\..\Plugins\Applivery.Desktop.Comics.Models\Applivery.Desktop.Comics.Models.csproj" />
+    <ProjectReference Include="..\..\..\Plugins\Applivery.Desktop.Comics.ViewModels\Applivery.Desktop.Comics.ViewModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System.Windows" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+
+</Project>

@@ -13,8 +13,6 @@ namespace Applivery.Desktop.Core.Interfaces
 
         string Name { get; set; }
 
-        ImageSource Icon { get; set; }
-
         ICommand Command { get; set; }
     }
 }
