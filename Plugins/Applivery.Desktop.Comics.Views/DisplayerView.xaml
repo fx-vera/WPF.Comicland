@@ -6,34 +6,35 @@
              mc:Ignorable="d">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="2*" MinWidth="120"/>
-            <ColumnDefinition Width="2*" MinWidth="250"/>
-            <ColumnDefinition Width="2*" MinWidth="100" Name="descriptionColumn"/>
-            <ColumnDefinition Width="4*" MinWidth="200"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="5"/>
+            <ColumnDefinition Width="2.5*"/>
+            <ColumnDefinition Width="5"/>
+            <ColumnDefinition Width="2.5*"/>
+            <ColumnDefinition Width="5"/>
+            <ColumnDefinition Width="2.5*"/>
         </Grid.ColumnDefinitions>
-        <Border x:Name="creatorsBorded" Grid.Column="0" Margin="3" BorderThickness="0.3" BorderBrush="CornflowerBlue">
-            <ListView x:Name="creatorsList" ItemsSource="{Binding DisplayerModel.CreatorComics}" SelectedItem="{Binding DisplayerModel.SelectedCreator}" DisplayMemberPath="Name" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True"/>
-        </Border>
-        <Border x:Name="comicsBorder" Grid.Column="1" Margin="3" BorderThickness="0.3" BorderBrush="CornflowerBlue">
-            <ListView x:Name="comicsList" ItemsSource="{Binding DisplayerModel.SelectedCreator.Comics}" SelectedItem="{Binding DisplayerModel.SelectedCreator.SelectedComic}" DisplayMemberPath="title"
-                      ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True">
-                
-            </ListView>
-        </Border>
-        <StackPanel Grid.Column="2" MaxWidth="500">
-            <TextBlock Text="Summary" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="{Binding DisplayerModel.SelectedCreator.Description}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="Characters" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="{Binding DisplayerModel.SelectedCreator.Characters}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="Stories" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="{Binding DisplayerModel.SelectedCreator.Stories}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="Series" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="{Binding DisplayerModel.SelectedCreator.Series}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="Dates" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="{Binding DisplayerModel.SelectedCreator.Dates}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="CoCreators" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
-            <TextBlock Text="{Binding DisplayerModel.SelectedCreator.CoCreators}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
-        </StackPanel>
-        <Image Source="{Binding DisplayerModel.SelectedCreator.Image.Source}" Margin="3" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Top"></Image>
+        <ListView x:Name="creatorsList" Grid.Column="0" ItemsSource="{Binding DisplayerModel.CreatorComics}" SelectedItem="{Binding DisplayerModel.SelectedCreator}" DisplayMemberPath="Name" Margin="3" BorderBrush="Transparent"/>
+        <GridSplitter Grid.Column="1" HorizontalAlignment="Stretch" BorderBrush="OrangeRed" Width="3" Margin="0" BorderThickness="1.0" Background="Transparent"/>
+        <ListView x:Name="comicsList" Grid.Column="2" ItemsSource="{Binding DisplayerModel.SelectedCreator.Comics}" SelectedItem="{Binding DisplayerModel.SelectedCreator.SelectedComic}" DisplayMemberPath="title" Margin="3" BorderBrush="Transparent"/>
+        <GridSplitter Grid.Column="3" HorizontalAlignment="Stretch" BorderBrush="OrangeRed" Width="3" BorderThickness="1" Background="Transparent"/>
+        <ScrollViewer Grid.Column="4" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto" Margin="3">
+            <StackPanel Grid.Column="4" >
+                <TextBlock Text="Summary" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="{Binding DisplayerModel.SelectedCreator.Description}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="Characters" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="{Binding DisplayerModel.SelectedCreator.Characters}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="Stories" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="{Binding DisplayerModel.SelectedCreator.Stories}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="Series" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="{Binding DisplayerModel.SelectedCreator.Series}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="Dates" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="{Binding DisplayerModel.SelectedCreator.Dates}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="CoCreators" FontWeight="Bold" FontFamily="Comic Sans MS"></TextBlock>
+                <TextBlock Text="{Binding DisplayerModel.SelectedCreator.CoCreators}" TextWrapping="Wrap" FontFamily="Comic Sans MS"></TextBlock>
+            </StackPanel>
+        </ScrollViewer>
+        <GridSplitter Grid.Column="5" HorizontalAlignment="Stretch" BorderBrush="OrangeRed" Width="3" BorderThickness="1" Background="Transparent"/>
+        <Image Source="{Binding DisplayerModel.SelectedCreator.Image.Source}" Margin="3" Grid.Column="6" HorizontalAlignment="Stretch" VerticalAlignment="Top"></Image>
     </Grid>
 </UserControl>

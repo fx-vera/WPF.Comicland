@@ -98,7 +98,7 @@
     <ProjectReference Include="..\Core\Applivery.Desktop.Core\Applivery.Desktop.Core.csproj">
       <Project>{5a0c0d8c-897a-4c7d-8741-3636de695091}</Project>
       <Name>Applivery.Desktop.Core</Name>
-      <Private>False</Private>
+      <Private>True</Private>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

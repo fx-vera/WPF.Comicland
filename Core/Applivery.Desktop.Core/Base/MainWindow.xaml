@@ -5,19 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
         Title="{Binding Title}" 
-        Icon="{Binding Icon}"
-        MinHeight="300" MinWidth="400"
+        MinHeight="500" MinWidth="800"
         Name="AppliveryMainView">
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="*"/>
-        </Grid.RowDefinitions>
-
         <!-- here the content of the plugin -->
-        <Border x:Name="pluginsContent" Grid.Row="0" Margin="3" BorderThickness="0.5" BorderBrush="Gray" >
-            <ScrollViewer ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto">
+        <Border x:Name="pluginsContent" Grid.Row="0" Margin="1.5" BorderThickness="1" BorderBrush="OrangeRed" ScrollViewer.VerticalScrollBarVisibility="Disabled">
+            <Border x:Name="pluginsContent2" Grid.Row="0" Margin="1.5" BorderThickness="1" BorderBrush="Blue" ScrollViewer.VerticalScrollBarVisibility="Disabled">
                 <ContentPresenter  x:Name="contentContainer" Content="{Binding ViewModel}"/>
-            </ScrollViewer>
+            </Border>
         </Border>
     </Grid>
 </Window>
