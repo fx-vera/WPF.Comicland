@@ -1,7 +1,8 @@
-﻿using PropertyChanged;
+﻿using Applivery.Desktop.Comics.Models;
+using PropertyChanged;
 using System.Collections.ObjectModel;
 
-namespace Applivery.Desktop.Comics.Models
+namespace Applivery.Desktop.Comics.ViewModels
 {
     /// <summary>
     /// Comics data

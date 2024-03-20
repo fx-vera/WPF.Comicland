@@ -1,4 +1,5 @@
-﻿using Applivery.Desktop.Core.Events;
+﻿using Applivery.Desktop.Core.Base;
+using Applivery.Desktop.Core.Events;
 using Applivery.Desktop.Core.Interfaces;
 using Applivery.Desktop.Core.Managers;
 using Applivery.Desktop.Core.Models;
@@ -10,18 +11,20 @@ using System.Linq;
 using System.Reflection;
 using System.Windows;
 
-namespace Applivery.Desktop.Core.Base
+namespace Applivery.Desktop.Core.MVVM
 {
     /// <summary>
     /// Base class to manage the basic application operations and the main window.
     /// This class can be extended depending on requirements
     /// </summary>
-    public abstract class Bootstrapper : Application
+    public abstract class BootstrapperBase : Application
     {
+        System.Windows.Forms.NotifyIcon notifyIcon;
+
         /// <summary>
         /// Contructor called by Application.
         /// </summary>
-        public Bootstrapper()
+        public BootstrapperBase()
         {
             UnhandledExceptionHandler.Init();
         }
@@ -29,13 +32,13 @@ namespace Applivery.Desktop.Core.Base
         /// <summary>
         /// List of substrings of the dll names that WILL be allowed when trying MEF composition
         /// </summary>
-        public List<string> DllAllowed { get; set; }
+        public List<string> DllAllowed { get; private set; }
 
         /// <summary>
         /// Several steps: parse the info, creates the mainframe and the mission control bar
         /// </summary>
         /// <param name="e"></param>
-        protected override void OnStartup(StartupEventArgs e)
+        protected sealed override void OnStartup(StartupEventArgs e)
         {
             base.OnStartup(e);
             ShutdownMode = ShutdownMode.OnExplicitShutdown;
@@ -75,19 +78,22 @@ namespace Applivery.Desktop.Core.Base
 
             LoadApplicationViews();
 
-            MainWindow = CreateMainWindow();
-            if (MainWindow == null)
+            notifyIcon = new System.Windows.Forms.NotifyIcon
             {
-                MessageBox.Show(loadError, "Error creating the MainWindow for the Application Modules in Applivery.MarvelComics.Desktop.");
-                Current.Shutdown();
-            }
-            else
+                Icon = SetNotifyIcon(),
+                Text = "Applivery Comics",
+                Visible = true,
+            };
+
+
+            notifyIcon.DoubleClick += (sender, ex) =>
             {
-                MainWindow.Closing += (o, ee) => CustomShutDown();
-                LoadPlugins();
-                ((IMainWindowViewModel)MainWindow.DataContext).SetSelectedPlugin();
-                MainWindow.Show();
-            }
+                Open_Click(null, null);
+            };
+
+            notifyIcon.ContextMenuStrip = new System.Windows.Forms.ContextMenuStrip();
+            notifyIcon.ContextMenuStrip.Items.Add("Open", null, Open_Click);
+            notifyIcon.ContextMenuStrip.Items.Add("Close", null, Close_Click);
         }
 
         #region Abstracts
@@ -95,7 +101,7 @@ namespace Applivery.Desktop.Core.Base
         /// <summary>
         /// Used to load by IoC the specific dlls, not all in the workspace.
         /// </summary>
-        public abstract void InitPluginNames();
+        public abstract List<string> InitDllAllowed();
 
         #endregion Abstract
 
@@ -111,7 +117,7 @@ namespace Applivery.Desktop.Core.Base
         /// <returns>The list of assemblies to be loaded and composed</returns>
         private List<Assembly> GetAssembliesForIoC()
         {
-            InitPluginNames();
+            DllAllowed = InitDllAllowed();
             List<Assembly> possiblePlugins = new List<Assembly>();
             string exeDir = Path.GetDirectoryName(GetType().Assembly.Location);
 
@@ -144,7 +150,7 @@ namespace Applivery.Desktop.Core.Base
         /// any implementation the subclasses want.
         /// </summary>
         /// <returns></returns>
-        private Window CreateMainWindow()
+        protected Window CreateMainWindow()
         {
             IMainWindowViewModel mainViewModel = IoC.Get<IMainWindowViewModel>();
             if (mainViewModel == null)
@@ -159,12 +165,13 @@ namespace Applivery.Desktop.Core.Base
             return mainWindow;
         }
 
-        private void CustomShutDown()
-        {
-            Current.Shutdown();
-        }
+        /// <summary>
+        /// The icon for the Notification toolbar.
+        /// </summary>
+        /// <returns></returns>
+        protected abstract System.Drawing.Icon SetNotifyIcon();
 
-        private void LoadPlugins()
+        protected void LoadPlugins()
         {
             IEventAggregator eventAggregator = IoC.Get<IEventAggregator>();
             LoadPluginEventArgs args;
@@ -180,6 +187,26 @@ namespace Applivery.Desktop.Core.Base
                 };
                 eventAggregator.Send(args);
             }
+        }
+
+        void Open_Click(object sender, EventArgs e)
+        {
+            MainWindow = CreateMainWindow();
+            if (MainWindow == null)
+            {
+                MessageBox.Show("Error", "Error creating the MainWindow for the Application Modules in Applivery.MarvelComics.Desktop.");
+            }
+            else
+            {
+                LoadPlugins();
+                ((IMainWindowViewModel)MainWindow.DataContext).SetSelectedPlugin();
+                MainWindow.Show();
+            }
+        }
+
+        void Close_Click(object sender, EventArgs e)
+        {
+            Current.Shutdown();
         }
 
         #endregion Private

@@ -4,15 +4,15 @@ using PropertyChanged;
 namespace Applivery.Desktop.Core.MVVM
 {
     /// <summary>
-    /// ViewModel
+    /// ViewModelBase
     /// </summary>
     [AddINotifyPropertyChangedInterface]
-    public abstract class ViewModel : IViewModel
+    public abstract class ViewModelBase : IViewModel
     {
         /// <summary>
-        /// Initializes a new instance of the <see cref="ViewModel"/> class.
+        /// Initializes a new instance of the <see cref="ViewModelBase"/> class.
         /// </summary>
-        public ViewModel()
+        public ViewModelBase()
         {
 
         }

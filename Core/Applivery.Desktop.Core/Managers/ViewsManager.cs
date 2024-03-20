@@ -23,7 +23,7 @@ namespace Applivery.Desktop.Core.Managers
         /// </summary>
         /// <param name="views">The views.</param>
         [ImportingConstructor]
-        public ViewsManager([ImportMany] IEnumerable<IVVMMappingBase> views, [Import] IPageManager pm)
+        public ViewsManager([ImportMany] IEnumerable<IVVMMappingBase> views)
         {
             _availableViews.AddRange(views);
         }

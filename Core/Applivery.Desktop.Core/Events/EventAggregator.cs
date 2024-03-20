@@ -17,7 +17,6 @@ using Applivery.Desktop.Core.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.Composition;
-using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Windows.Threading;
 
@@ -38,7 +37,6 @@ namespace Applivery.Desktop.Core.Events
         private static readonly object CreationLock = new object();
         private static IEventAggregator _defaultInstance;
         private readonly object _registerLock = new object();
-        private Dictionary<Type, List<WeakActionAndToken>> _recipientsOfSubclassesAction;
         private Dictionary<Type, List<WeakActionAndToken>> _recipientsStrictAction;
         private bool _isCleanupRegistered;
 
@@ -146,7 +144,6 @@ namespace Applivery.Desktop.Core.Events
         /// <param name="recipient">The recipient that must be unregistered.</param>
         public virtual void Unregister(object recipient)
         {
-            UnregisterFromLists(recipient, _recipientsOfSubclassesAction);
             UnregisterFromLists(recipient, _recipientsStrictAction);
             RequestCleanup();
         }
@@ -322,7 +319,6 @@ namespace Applivery.Desktop.Core.Events
         /// </summary>
         public void Cleanup()
         {
-            CleanupList(_recipientsOfSubclassesAction);
             CleanupList(_recipientsStrictAction);
             _isCleanupRegistered = false;
         }
@@ -330,31 +326,6 @@ namespace Applivery.Desktop.Core.Events
         private void SendToTargetOrType<TMessage>(TMessage message, Type messageTargetType, object token)
         {
             var messageType = typeof(TMessage);
-
-            if (_recipientsOfSubclassesAction != null)
-            {
-                // Clone to protect from people registering in a "receive message" method
-                // Correction Messaging BL0008.002
-                var listClone =
-                    _recipientsOfSubclassesAction.Keys.Take(_recipientsOfSubclassesAction.Count()).ToList();
-
-                foreach (var type in listClone)
-                {
-                    List<WeakActionAndToken> list = null;
-
-                    if (messageType == type
-                        || messageType.IsSubclassOf(type)
-                        || type.IsAssignableFrom(messageType))
-                    {
-                        lock (_recipientsOfSubclassesAction)
-                        {
-                            list = _recipientsOfSubclassesAction[type].Take(_recipientsOfSubclassesAction[type].Count).ToList();
-                        }
-                    }
-
-                    SendToList(message, list, messageTargetType, token);
-                }
-            }
 
             if (_recipientsStrictAction != null)
             {

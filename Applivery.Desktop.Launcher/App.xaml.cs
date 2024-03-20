@@ -1,19 +1,9 @@
-﻿using Applivery.Desktop.Core.Base;
-using System.Collections.Generic;
-
-namespace Applivery.Desktop.Launcher
+﻿namespace Applivery.Desktop.Launcher
 {
     /// <summary>
-    /// Lógica de interacción para App.xaml
+    /// Lógica de interacción para NotifyIcon.xaml
     /// </summary>
-    public partial class App : Bootstrapper
+    public partial class App : ComicsBootstrapper
     {
-        public override void InitPluginNames()
-        {
-            DllAllowed = new List<string>
-            {
-                "Applivery.Desktop"
-            };
-        }
     }
 }

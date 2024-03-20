@@ -6,7 +6,7 @@ namespace Applivery.Desktop.Core.Base
     /// <summary>
     /// The content of the user controls will be set in this viewmodel
     /// </summary>
-    public class GenericViewModel : IWindowViewModel
+    public sealed class GenericViewModel : IWindowViewModel
     {
         /// <summary>
         /// The view

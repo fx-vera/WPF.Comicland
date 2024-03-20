@@ -17,7 +17,7 @@ namespace Applivery.Desktop.Core.MVVM
 
         public abstract void LoadPlugins();
 
-        public RelayCommand MenuItemCommand(PluginItemBase menuItem, Func<ViewModel> pageCreator)
+        public RelayCommand MenuItemCommand(PluginItemBase menuItem, Func<ViewModelBase> pageCreator)
         {
             return new RelayCommand(param => OnCommand(menuItem, pageCreator()), null);
         }
@@ -28,7 +28,7 @@ namespace Applivery.Desktop.Core.MVVM
         /// <param name="menuItem"></param>
         /// <param name="page"></param>
         /// <param name="showInMainframe"></param>
-        private void OnCommand(PluginItemBase menuItem, ViewModel page)
+        private void OnCommand(PluginItemBase menuItem, ViewModelBase page)
         {
             page.Id = menuItem.Id;
             var pm = IoC.Get<IPageManager>();

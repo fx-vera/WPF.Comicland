@@ -125,7 +125,7 @@ namespace Applivery.Desktop.Core.Managers
             {
                 _container.ComposeParts();
             }
-            catch (CompositionException ce)
+            catch (CompositionException)
             {
             }
             catch (Exception ex)
